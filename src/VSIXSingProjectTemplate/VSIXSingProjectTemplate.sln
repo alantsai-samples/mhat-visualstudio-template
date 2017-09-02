@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSIXSingProjectTemplate", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSIXProject1", "VSIXProject1\VSIXProject1.csproj", "{C713E2B9-156E-4F6D-9763-A4179C5B0C40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiProjectTemplate", "MultiProjectTemplate\MultiProjectTemplate.csproj", "{85481B6E-95B2-40DF-917B-92380B9AF9B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C713E2B9-156E-4F6D-9763-A4179C5B0C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C713E2B9-156E-4F6D-9763-A4179C5B0C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C713E2B9-156E-4F6D-9763-A4179C5B0C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85481B6E-95B2-40DF-917B-92380B9AF9B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85481B6E-95B2-40DF-917B-92380B9AF9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85481B6E-95B2-40DF-917B-92380B9AF9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85481B6E-95B2-40DF-917B-92380B9AF9B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
