@@ -69,6 +69,7 @@
     </Content>
     <VSTemplate Include="MyTemplate.vstemplate">
       <SubType>Designer</SubType>
+      <OutputSubPath>myVsix\Test</OutputSubPath>
     </VSTemplate>
     <Content Include="__TemplateIcon.ico" />
   </ItemGroup>
