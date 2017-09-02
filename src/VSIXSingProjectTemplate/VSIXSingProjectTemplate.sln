@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSIXSingProjectTemplate", "VSIXSingProjectTemplate\VSIXSingProjectTemplate.csproj", "{B3F44B40-3D05-4529-9F6F-61DD8A1DFECF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSIXProject1", "VSIXProject1\VSIXProject1.csproj", "{C713E2B9-156E-4F6D-9763-A4179C5B0C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3F44B40-3D05-4529-9F6F-61DD8A1DFECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F44B40-3D05-4529-9F6F-61DD8A1DFECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F44B40-3D05-4529-9F6F-61DD8A1DFECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F44B40-3D05-4529-9F6F-61DD8A1DFECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C713E2B9-156E-4F6D-9763-A4179C5B0C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C713E2B9-156E-4F6D-9763-A4179C5B0C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C713E2B9-156E-4F6D-9763-A4179C5B0C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C713E2B9-156E-4F6D-9763-A4179C5B0C40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = b509c1ea-12f1-408c-b8ec-17b647f99e75
+	EndGlobalSection
+EndGlobal

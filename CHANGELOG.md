@@ -4,6 +4,10 @@
 
 更新日誌的格式將會基於 [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
+## [1.0.2] - 2017-09-02
+### Added
+- 加入VSIX建立專案
+
 ## [1.0.1] - 2017-08-29
 ### Added
 - 加入把專案拆兩個的solution
