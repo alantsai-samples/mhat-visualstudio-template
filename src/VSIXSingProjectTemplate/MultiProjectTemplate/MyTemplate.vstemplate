@@ -1,0 +1,26 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="ProjectGroup">
+  <TemplateData>
+    <Name>MHAT.ProcessTemplate.ConsoleApp.Multi</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>ConsoleApp1</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <ProjectCollection>  
+        <ProjectTemplateLink ProjectName="$safeprojectname$.ConsoleApp">  
+            MHAT.MultiConsole.ConsoleApp\MyTemplate.vstemplate  
+        </ProjectTemplateLink>  
+        <ProjectTemplateLink ProjectName="$safeprojectname$.Bll">  
+            MHAT.MultiConsole.Bll\MyTemplate.vstemplate  
+        </ProjectTemplateLink>  
+    </ProjectCollection> 
+  </TemplateContent>
+</VSTemplate>

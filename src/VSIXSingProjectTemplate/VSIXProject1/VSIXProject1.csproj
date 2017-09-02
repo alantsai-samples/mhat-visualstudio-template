@@ -53,6 +53,13 @@
     <Content Include="stylesheet.css" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\MultiProjectTemplate\MultiProjectTemplate.csproj">
+      <Project>{85481B6E-95B2-40DF-917B-92380B9AF9B7}</Project>
+      <Name>MultiProjectTemplate</Name>
+      <VSIXSubPath>ProjectTemplates</VSIXSubPath>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <IncludeOutputGroupsInVSIX>TemplateProjectOutputGroup%3b</IncludeOutputGroupsInVSIX>
+    </ProjectReference>
     <ProjectReference Include="..\VSIXSingProjectTemplate\VSIXSingProjectTemplate.csproj">
       <Project>{B3F44B40-3D05-4529-9F6F-61DD8A1DFECF}</Project>
       <Name>VSIXSingProjectTemplate</Name>
