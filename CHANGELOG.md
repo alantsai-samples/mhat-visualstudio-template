@@ -4,6 +4,12 @@
 
 更新日誌的格式將會基於 [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
+## [1.0.3] - 2017-09-04
+### Added
+- 加入Multi Project到VSIX專案
+### Changed
+- 把VSIX專案的名稱調整
+
 ## [1.0.2] - 2017-09-02
 ### Added
 - 加入VSIX建立專案
