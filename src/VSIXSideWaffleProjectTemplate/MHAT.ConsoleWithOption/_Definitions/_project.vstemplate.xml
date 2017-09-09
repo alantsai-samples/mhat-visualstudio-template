@@ -17,7 +17,7 @@
     <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
   </TemplateData>
   <TemplateContent>
-    <Project TargetFileName="$rootnamespace$.csproj" File="$rootnamespace$.csproj" ReplaceParameters="true">
+    <Project TargetFileName="$rootnamespace$.csproj" File="MHAT.ConsoleWithOption.csproj" ReplaceParameters="true">
     </Project>
     <!--
     <CustomParameters>
@@ -27,8 +27,4 @@
     </CustomParameters>
     -->
   </TemplateContent>
-  <WizardExtension>
-    <Assembly>LigerShark.Templates, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
-    <FullClassName>LigerShark.Templates.GoogleAnalyticsWizard</FullClassName>
-  </WizardExtension>
 </VSTemplate>
