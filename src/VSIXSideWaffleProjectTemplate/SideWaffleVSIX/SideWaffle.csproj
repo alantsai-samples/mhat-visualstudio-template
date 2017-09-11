@@ -55,6 +55,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="index.html" />
+    <Content Include="ProjectTemplates\ConsoleWithOption\MHAT.ConsoleWithOption.csproj" />
+    <Content Include="ProjectTemplates\ConsoleWithOption\_Definitions\_project.vstemplate.xml" />
+    <Content Include="ProjectTemplates\ConsoleWithOption\_preprocess.xml" />
     <Content Include="stylesheet.css" />
   </ItemGroup>
   <ItemGroup>
