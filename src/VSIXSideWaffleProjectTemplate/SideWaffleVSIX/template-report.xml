@@ -2,6 +2,7 @@
 <TemplateReport>
   <ItemTemplates />
   <ProjectTemplates>
+    <ProjectTemplate Path="ProjectTemplates\ConsoleWithOption\_Definitions\_project.vstemplate.xml" Name="Convention Template" Description="Project description here" ProjectType="CSharp" ProjectSubType="" />
     <ProjectTemplate Path="..\MHAT.ConsoleWithOption\_Definitions\_project.vstemplate.xml" Name="Template name here" Description="Project description here" ProjectType="CSharp" ProjectSubType="" />
   </ProjectTemplates>
   <Snippets />
