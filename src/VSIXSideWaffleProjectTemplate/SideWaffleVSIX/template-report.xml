@@ -1,8 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TemplateReport>
-  <ItemTemplates />
+  <ItemTemplates>
+    <ItemTemplate Path="ItemTemplates\ConsoleOption\_Definitions\CSharp.vstemplate" Name="Process File" Description="&lt;No description available&gt;" ProjectType="CSharp" ProjectSubType="" />
+  </ItemTemplates>
   <ProjectTemplates>
     <ProjectTemplate Path="ProjectTemplates\ConsoleWithOption\_Definitions\_project.vstemplate.xml" Name="Convention Template" Description="Project description here" ProjectType="CSharp" ProjectSubType="" />
+    <ProjectTemplate Path="ProjectTemplates\MultiProject\_Definitions\CSharp.vstemplate" Name="Multi Project Template" Description="&lt;No description available&gt;" ProjectType="CSharp" ProjectSubType="" />
     <ProjectTemplate Path="..\MHAT.ConsoleWithOption\_Definitions\_project.vstemplate.xml" Name="Template name here" Description="Project description here" ProjectType="CSharp" ProjectSubType="" />
   </ProjectTemplates>
   <Snippets />
