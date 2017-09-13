@@ -55,6 +55,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="index.html" />
+    <Content Include="ItemTemplates\ConsoleOption\_Definitions\CSharp.vstemplate" />
+    <Content Include="ItemTemplates\ConsoleOption\_preprocess.xml" />
     <Content Include="ProjectTemplates\ConsoleWithOption\MHAT.ConsoleWithOption.csproj" />
     <Content Include="ProjectTemplates\ConsoleWithOption\_Definitions\_project.vstemplate.xml" />
     <Content Include="ProjectTemplates\ConsoleWithOption\_preprocess.xml" />
