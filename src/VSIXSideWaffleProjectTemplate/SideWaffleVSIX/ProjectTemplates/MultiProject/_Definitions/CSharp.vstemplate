@@ -15,11 +15,11 @@
   </TemplateData>
   <TemplateContent>
     <ProjectCollection>  
-        <ProjectTemplateLink ProjectName="$safeprojectname$.Web">  
-            Project1\MyTemplate.vstemplate  
+        <ProjectTemplateLink ProjectName="$safeprojectname$.ConsoleApp">
+          MHAT.ConsoleApp.Multi.ConsoleApp\MyTemplate.vstemplate
         </ProjectTemplateLink>  
-        <ProjectTemplateLink ProjectName="$safeprojectname$.Extend">  
-            Project2\MyTemplate.vstemplate  
+        <ProjectTemplateLink ProjectName="$safeprojectname$.Bll">
+          MHAT.ConsoleApp.Multi.Bll\MyTemplate.vstemplate
         </ProjectTemplateLink>  
     </ProjectCollection> 
   </TemplateContent>
