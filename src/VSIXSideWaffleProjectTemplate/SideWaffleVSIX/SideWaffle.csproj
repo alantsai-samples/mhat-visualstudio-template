@@ -58,6 +58,10 @@
     <Content Include="ProjectTemplates\ConsoleWithOption\MHAT.ConsoleWithOption.csproj" />
     <Content Include="ProjectTemplates\ConsoleWithOption\_Definitions\_project.vstemplate.xml" />
     <Content Include="ProjectTemplates\ConsoleWithOption\_preprocess.xml" />
+    <Content Include="ProjectTemplates\MultiProject\MHAT.ConsoleApp.Multi.Bll\MyTemplate.vstemplate" />
+    <Content Include="ProjectTemplates\MultiProject\MHAT.ConsoleApp.Multi.Bll\_preprocess.xml" />
+    <Content Include="ProjectTemplates\MultiProject\MHAT.ConsoleApp.Multi.ConsoleApp\MyTemplate.vstemplate" />
+    <Content Include="ProjectTemplates\MultiProject\MHAT.ConsoleApp.Multi.ConsoleApp\_preprocess.xml" />
     <Content Include="ProjectTemplates\MultiProject\_Definitions\CSharp.vstemplate" />
     <Content Include="ProjectTemplates\MultiProject\_preprocess.xml" />
     <Content Include="stylesheet.css" />
