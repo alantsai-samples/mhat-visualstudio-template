@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHAT.ConsoleApp.Multi.ConsoleApp", "MHAT.ConsoleApp.Multi\MHAT.ConsoleApp.Multi.ConsoleApp\MHAT.ConsoleApp.Multi.ConsoleApp.csproj", "{9CCDC71D-7E53-416F-8521-AECAC471AD41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHAT.ConsoleApp.Multi.ConsoleApp", "MHAT.ConsoleApp.Multi.ConsoleApp\MHAT.ConsoleApp.Multi.ConsoleApp.csproj", "{9CCDC71D-7E53-416F-8521-AECAC471AD41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHAT.ConsoleApp.Multi.Bll", "MHAT.ConsoleApp.Multi\MHAT.ConsoleApp.Multi.Bll\MHAT.ConsoleApp.Multi.Bll.csproj", "{B8E103F9-9D78-4CC9-AE3E-A37CAA6C90D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHAT.ConsoleApp.Multi.Bll", "MHAT.ConsoleApp.Multi.Bll\MHAT.ConsoleApp.Multi.Bll.csproj", "{B8E103F9-9D78-4CC9-AE3E-A37CAA6C90D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
